@@ -1,0 +1,6 @@
+{
+  "name": "Volume Controller",
+  "description": "A lightweight, battery-efficient volume controller with custom presets, slider support, system-wide balancing, and a fade-away floating quick adjustment overlay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
